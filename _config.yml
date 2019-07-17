@@ -1,19 +1,19 @@
 # Site Settings
-title: Jekflix | A theme for Jekyll
+title: My blog
 email: youremail@xyz.com
-description: Some text about your blog.
+description: Some application service.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jekflix.rossener.com" # the base hostname & protocol for your site
+url: "https://yourname.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Jekflix
-user_description: Some text about you.
+username: always-hi
+user_description: student
 disqus_username: disqus_username
 
 # Social Media
 # Remove the item if you don't need it
-github_username: github_username
+github_username: always-hi
 facebook_username: facebook_username
 twitter_username: twitter_username
 instagram_username: instagram_username
