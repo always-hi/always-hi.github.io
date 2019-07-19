@@ -26,25 +26,20 @@ Actually, i've suppose to test posting whether it work or not. But for the sudde
 - **여행 경비**, 가장 중요한 1순위 `취직을 해서 돈을 벌어서 차곡차곡 쌓아놓자`.
 - *여행 시간*, 2순위 `휴가일정 계획 미리 짜놓기`.
 -  <abbr title="HyperText Markup Langage">언어 공부</abbr> 3순위 `미리미리 틈틈히 단어 공부하자`.
-- Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+- 짝대기 그리기 <cite>&mdash; 이것은 설명하는 짝대기</cite>. 
+- <del>배고프다</del> <ins>우유많이 먹어서 배아프다</ins> .
+- 지수처럼 <sup>위에</sup> 이건 <sub>아래</sub> 잘 안쓸듯.
 
-Most of these elements are styled by browsers with few modifications on our part.
+# 작
+## 아
+### 진
+#### 다
 
-# Heading 1
+슬슬 귀찮아진다
 
-## Heading 2
+## Code 쓸일이 없을 것 같다
 
-### Heading 3
-
-#### Heading 4
-
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-
-## Code
-
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
+흠냐 흠냐
 
 ```js
 // Example can be run directly in your JavaScript console
@@ -57,37 +52,31 @@ adder(2, 6);
 // > 8
 ```
 
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
 
 ## Lists
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+리스트 트름 음악 악기 기차표 표범 범인
 
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
+* 카페에서 블로그를 만들어 본다 `성공`.
+* 대외활동 및 잡코리아 채용정보 확인.
+* 포트폴리오 예시 확인 및 프로젝트1 짜기.
 
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
 
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
+1. 작년 채용 정보 확인
+2. 앱서비스 설명 블로그 틈틈히 올리기
+3. 개선하고 싶은 앱을 뭘까?
 
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
+오늘은 쉬엄 쉬엄 불타는 금요일 
 
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
+## 이미지 넣기
 
 ![placeholder](https://placehold.it/800x400 "Large example image")
 ![placeholder](https://placehold.it/400x200 "Medium example image")
 ![placeholder](https://placehold.it/200x200 "Small example image")
 
-## Tables
+## 테이블
 
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+누워서 떡먹기
 
 <table>
   <thead>
@@ -123,11 +112,11 @@ Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, conse
   </tbody>
 </table>
 
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+
 
 -----
 
-Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a>
+링크 링크 걸어요 <a href="https://www.naver.com">네이버.</a>
 
 
 
