@@ -1,30 +1,31 @@
 ---
 layout: post
-title: "Com sociis natoque penatibus et magnis dis"
-date: 2018-11-22 12:26:40
+title: "This is my first posting in github"
+date: 2019-07-19 
 image: 'https://res.cloudinary.com/dm7h7e8xj/image/upload/c_fill,h_399,w_760/v1501268554/sunrise_ttb9nk.jpg'
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-category: 'tutorial'
+description: test
+category: 'story'
 tags:
-- html
-- tutorial
-twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- blog
+- story
+twitter_text: 
+introduction: 깃헙 블로그 첫번째 테스트 스벅 화이트 딸기 크림 개존맛이야아 벤티사이즈 최고.
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+Always-hi guys! This is my first posting in github blog. so I wanna test some methods in here posting that so simple and usual.  
+First, <a href="#">this is present moment link</a>, it shows the page that we read now. Oh, *this is Itaric style awesome* I think I'll use it when i want to emphasize something. 
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+> 원래 페이지 스페인어로 되있었네. 1도 못읽겠다. 스페인어 공부 다시 해야지 Curabitur blandit tempus porttitor. 
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+this here where i can note my purpose **스페인어 공부를 할 것입니다.** . To travel Spain alone when i want to leave here. 
 
-## Inline HTML elements
+## 스페인 여행을 위해 준비해야 할 것
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+Actually, i've suppose to test posting whether it work or not. But for the sudden, i fall in the spain travel so i start to find some informations. Here is the [스페인 여행 블로그](https://creative-soul.tistory.com/67).
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
+- **여행 경비**, 가장 중요한 1순위 `취직을 해서 돈을 벌어서 차곡차곡 쌓아놓자`.
+- *여행 시간*, 2순위 `휴가일정 계획 미리 짜놓기`.
+-  <abbr title="HyperText Markup Langage">언어 공부</abbr> 3순위 `미리미리 틈틈히 단어 공부하자`.
 - Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
 - <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
 - Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
