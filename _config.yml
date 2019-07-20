@@ -3,13 +3,13 @@ title: My blog
 email: youremail@xyz.com
 description: Some application service.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://yourname.github.io" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
+url: "https://always-hi.github.io" # the base hostname & protocol for your site
+google_analytics: 
 
 # User Settings
 username: always-hi
 user_description: student
-disqus_username: disqus_username
+disqus_username: 
 
 # Social Media
 # Remove the item if you don't need it
@@ -37,7 +37,7 @@ plugins:
 # For external links add external: true
 links:
   - title: Home
-    url: /
+    url: "https://always-hi.github.io"
   - title: About
     url: /about/
   - title: Contact
