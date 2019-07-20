@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "해외 여행 가이드 앱서비스 <트리플> 리뷰"
+title: "해외 여행 가이드 앱 <트리플> 리뷰"
 date: 2019-07-20 
 image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1506079212/jekflix-capa_vfhuzh.png'
 description: 내 손 안의 여행가이드. 실제 여행자들이 공유한 유용한 정보를 기반으로 여행해보자.
-category: 'css'
+category: 'Trip'
 tags:
-- css
-- tips
-twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+- Trip
+- app
+twitter_text: 
 introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 ---
 
