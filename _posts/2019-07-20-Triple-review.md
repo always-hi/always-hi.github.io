@@ -44,9 +44,55 @@ Always-hi Everyone!!
 
 저는 이걸 참고하면서 짰는데 도움이 많이 됐어요! 물론, 저스트 참고용-
 
+## 여행자의 솔직한 리뷰
+
+슬슬 여행갈 장소를 정하다 보면.. 
+
+정말 이 장소가 괜찮나? 가격대비 맛있나? 저녁에 갈까 낮에 갈까?
+
+이런저런 생각을 하다 리뷰를 찾게 되는데, 찾다가 지쳐서 그냥 가자...
+
+할 뻔한걸 트리플이 도와줬습니다..!
+
+>실제 여행자들이 솔직하게 리뷰를 해서 믿음직했고,
+경험에서 우러나온 팁들이 유용했어요
+
+**100 퍼센트 완벽한 스팟은 없으니, 장/단점을 보고 우리의 입맛에 맞게 고르면 될 것 같아요!!**
+
+## 위치 기반 서비스
+
+트리플에서 제~~~일 자주 사용한 서비스예요.
+
+다른 앱보다 트리플에 계속 손이 간 이유면서, 여행 처음부터 끝까지 트리플을 이용하는 이유기도 하죠 
+
+> 트리플은 사용자가 저장한 장소들을 구글맵과 함께 보여줘요
+
+사용자가 장소를 일정에 추가하면 바로 위치를  확인할 수 있어서 **동선 짤 때 너무 편했어요.**
+
+1. 일정을 숫자로 표시해서 구별하기도 쉽고
+
+2. 위치를 누르면 구글맵이 켜지면서 이동거리/시간도 바로바로 체크
+   
+    `행 전에 동선 짤 때, 여행 다니면서 가는 방법 찾을 때 항상 사용했어요.`
+    
+## 동행자와 공유
+
+동행자와 여행을 공유하는 것만큼 중요한 게 있을까요?
+
+저는 맛집을 맡고, 친구가 관광을 맡았었는데 각자 알아보고 합치기 번거로웠어요.
+
+그러다 찾아보니....
+
+> 트리플에서 친구 초대하기로 일정을 공유하는 기능이 있었어요.
+
+<친구를 초대하기>를 누르고 친구를 선택하면 끝-
+
+그렇다보니 한 명만 계획을 짜게 되는 불상사는 막을 수 있어서 좋았어요ㅎㅎㅎ
 
 
 
+
+***`트리플은 모든 사항을 즉각적으로, 쉽게 변경하고 추가할 수 있다는 점이 가장 좋았어요`***
 
 HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
 
@@ -57,52 +103,13 @@ HTML defines a long list of available inline tags, a complete list of which can 
 - <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
 - Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
 
-Most of these elements are styled by browsers with few modifications on our part.
 
-# Heading 1
 
-## Heading 2
 
-### Heading 3
 
-#### Heading 4
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
 
-## Code
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
-
-```js
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-```
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-## Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
 
 ## Images
 
