@@ -13,9 +13,20 @@ introduction: 내 손 안의 여행가이드. 실제 여행자들이 공유한 �
 ---
 
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+Always-hi Everyone!!
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+요즘 휴가 시즌인만큼 여행 어플인 'Triple'을 리뷰해볼까 해요
+
+사실 저는 트리플을 저번 달 일본여행을 준비하면서 2주 동안 쓰고, 여행하면서 1주일을 썼어요!
+
+`아주 아주 솔직한 리뷰랍니다.`
+
+짧았던 사용기간에도 확실한건,
+
+**트리플은 여행 계획 짜기에 너무 너무 편리하다!!**
+
+정말 전반적인 모든 걸 다 할 수 있는 것 같아요
+
 
 ## Inline HTML elements
 
