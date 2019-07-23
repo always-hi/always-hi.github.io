@@ -16,32 +16,31 @@ introduction: 내 손 안의 여행가이드. 실제 여행자들이 공유한 �
 Always-hi Everyone!!
 
 요즘 휴가 시즌인만큼 여행 어플인 'TRIPLE'을 리뷰해볼까 해요
+
 사실 저는 트리플을 저번 달 일본여행을 준비하면서 2주 동안 쓰고, 여행하면서 1주일을 썼어요!
 
 `아주 아주 솔직한 리뷰랍니다.`
 
-짧았던 사용기간에도 확실한건,
-
-**트리플은 여행 계획 짜기에 너무 너무 편리하다!!**
+짧았던 사용기간에도 확실한건, **트리플은 여행 계획 짜기에 너무 너무 편리하다!!**
 
 정말 전반적인 건 앱에서 다 할 수 있는 것 같아요
 
 
-## 장소 및 맛집 추천
+> ## 장소 및 맛집 추천
 
 앱 상단에서 맛집, 관광 카테고리는 *추천순/리뷰순/저장순* 으로 소개하고 있어요.
 
-<img src="https://drive.google.com/uc?id=1CQhgnE8iPBgHdc2S5d_65rsF06ImWjbU" width="40%" align="left">
-<img src="https://drive.google.com/open?id=1_o65rIlYLfJ5jBwGZ3OPtSaMzthV21oj" width="40%" align="right">
+<img src="https://drive.google.com/uc?id=1CQhgnE8iPBgHdc2S5d_65rsF06ImWjbU" width="30%" align="left">
+<img src="https://drive.google.com/open?id=1_o65rIlYLfJ5jBwGZ3OPtSaMzthV21oj" width="30%" align="right">
 
-이처럼 유명한 관광지부터 소소한 장소까지 있어서 취향에 따라 골라 저-장하고
+이처럼 유명한 관광지부터 소소한 장소까지 있어서 취향에 따라 골라 저-장하고, 
 오픈-클로즈 시간 및 입장 가격 등 디테일한 정보까지 제공해 주더라고요.
 
 > 개인적으로 여행계획 짜면서 시간이 정말 오래 걸렸는데 이 부분을 단번에 해결해줘서 감사할따름...
 
 **PLUS!! 가이드에서 2박3일, 3박4일 등 여행자의 코스에 맞는 스케쥴을 추천하고 있어요**
 
-저는 이걸 참고하면서 짰는데 도움이 많이 됐어요! 물론, 저스트 참고용-
+(저는 이걸 참고하면서 짰는데 도움이 많이 됐어요! 물론, 저스트 참고용-)
 
 ## 여행자의 솔직한 리뷰
 
