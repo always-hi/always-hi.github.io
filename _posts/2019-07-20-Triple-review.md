@@ -27,7 +27,7 @@ Always-hi Everyone!!
 
 정말 전반적인 건 앱에서 다 할 수 있는 것 같아요
 
-![image1](https://drive.google.com/uc?id=1Iu3Do1uT7AGRmG_kcn7Pi5fbvm-chtml){: width="500" height="500"}
+![image1](https://drive.google.com/uc?id=1Iu3Do1uT7AGRmG_kcn7Pi5fbvm-chtml){: width="100" height="100"}
 
 ## 장소 및 맛집 추천
 
