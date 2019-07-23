@@ -30,8 +30,8 @@ Always-hi Everyone!!
 
 앱 상단에서 맛집, 관광 카테고리는 *추천순/리뷰순/저장순* 으로 소개하고 있어요.
 
-<img src="https://drive.google.com/uc?id=1CQhgnE8iPBgHdc2S5d_65rsF06ImWjbU" width="30%" align="left">
-<img src="https://drive.google.com/open?id=1_o65rIlYLfJ5jBwGZ3OPtSaMzthV21oj" width="20%" align="right">
+<img src="https://drive.google.com/uc?id=1CQhgnE8iPBgHdc2S5d_65rsF06ImWjbU" width="50%" align="left">
+<img src="https://drive.google.com/uc?id=1_o65rIlYLfJ5jBwGZ3OPtSaMzthV21oj" width="50%" align="right">
 
 이처럼 유명한 관광지부터 소소한 장소까지 있어서 취향에 따라 골라 저-장하고, 
 오픈-클로즈 시간 및 입장 가격 등 디테일한 정보까지 제공해 주더라고요.
@@ -65,13 +65,13 @@ Always-hi Everyone!!
 
 > 트리플은 사용자가 저장한 장소들을 구글맵과 함께 보여줘요
 
-<img src="https://drive.google.com/open?id=1Iu3Do1uT7AGRmG_kcn7Pi5fbvm-chtml" width="50%" align="left">
-<img src="https://drive.google.com/open?id=1o4wduJ7U29Gud09AxZ12UWKcnTeW9VYS" width="50%" align="right">
+<img src="https://drive.google.com/uc?id=1Iu3Do1uT7AGRmG_kcn7Pi5fbvm-chtml" width="50%" align="left">
+<img src="https://drive.google.com/uc?id=1o4wduJ7U29Gud09AxZ12UWKcnTeW9VYS" width="50%" align="right">
 
 사용자가 장소를 일정에 추가하면 바로 위치를  확인할 수 있어서 **동선 짤 때 너무 편했어요.**
 일정을 숫자로 표시해서 다음 코스가 어딘지 구별도 쉬웠어요.
 
-<img src="https://drive.google.com/open?id=1W6Fbj963nEdxQv2RdKbfTqn-G8GJoSGj" width="50%" align="center">
+<img src="https://drive.google.com/uc?id=1W6Fbj963nEdxQv2RdKbfTqn-G8GJoSGj" width="50%" align="center">
 
 하단의 화살표 버튼을 누르면 구글맵이 켜지면서 이동거리/시간도 바로바로 체크
    
@@ -88,7 +88,7 @@ Always-hi Everyone!!
 
 > 트리플에서 친구 초대하기로 일정을 공유하는 기능이 있었어요.
 
-<img src="https://drive.google.com/open?id=1uKHZLgxh18Er0BypSZltup13lkwQHQHU" width="50%">
+<img src="https://drive.google.com/uc?id=1uKHZLgxh18Er0BypSZltup13lkwQHQHU" width="50%">
 
 
 일정 - 별표친부분에서 추가- 친구 초대 - 친구를 선택하면 끝
@@ -101,8 +101,11 @@ Always-hi Everyone!!
 **'트리플은 쉽고 빠르게 변경하고 추가할 수 있다는 점이 변경사항이 많은 여행의 특징을 잘 잡아준 것 같아요'**
 
 
+여행을 준비하기 막막하다면, 여행책이 무겁다면, 쏟아지는 정보 한눈에 보고싶다면
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+여러분의 여행에 트리플과 동행해보세요-!
+
+[TRIPLE](https://apps.apple.com/kr/app/%ED%8A%B8%EB%A6%AC%ED%94%8C-%ED%95%B4%EC%99%B8%EC%97%AC%ED%96%89-%EA%B0%80%EC%9D%B4%EB%93%9C/id1225499481).
 
 
 
