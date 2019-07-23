@@ -2,7 +2,7 @@
 layout: post
 title: "해외 여행 가이드 앱 <트리플> 리뷰"
 date: 2019-07-20 
-image: 'https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/67/79/60/677960c1-4772-301f-0d35-27ed03f38a03/AppIcon-0-1x_U007emarketing-0-0-sRGB-85-220-0-7.png/1200x630wa.png'
+image: <img src="https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/67/79/60/677960c1-4772-301f-0d35-27ed03f38a03/AppIcon-0-1x_U007emarketing-0-0-sRGB-85-220-0-7.png/1200x630wa.png" width="300" height="300"> 
 description: 내 손 안의 여행가이드. 실제 여행자들이 공유한 유용한 정보를 기반으로 여행해보자.
 category: 'Trip'
 tags:
