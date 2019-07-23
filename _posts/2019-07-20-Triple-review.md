@@ -16,7 +16,6 @@ introduction: 내 손 안의 여행가이드. 실제 여행자들이 공유한 �
 Always-hi Everyone!!
 
 요즘 휴가 시즌인만큼 여행 어플인 'TRIPLE'을 리뷰해볼까 해요
-
 사실 저는 트리플을 저번 달 일본여행을 준비하면서 2주 동안 쓰고, 여행하면서 1주일을 썼어요!
 
 `아주 아주 솔직한 리뷰랍니다.`
@@ -27,16 +26,15 @@ Always-hi Everyone!!
 
 정말 전반적인 건 앱에서 다 할 수 있는 것 같아요
 
-![image1](https://drive.google.com/uc?id=1Iu3Do1uT7AGRmG_kcn7Pi5fbvm-chtml){: width="300" height="500"}
-<img src="https://drive.google.com/uc?id=1Iu3Do1uT7AGRmG_kcn7Pi5fbvm-chtml" width="60%" align="left">
 
 ## 장소 및 맛집 추천
 
 앱 상단에서 맛집, 관광 카테고리는 *추천순/리뷰순/저장순* 으로 소개하고 있어요.
 
-유명한 관광지부터 소소한 장소까지 있어서 취향에 따라 골라 저-장하고
+<img src="https://drive.google.com/uc?id=1CQhgnE8iPBgHdc2S5d_65rsF06ImWjbU" width="50%" align="left">
+<img src="https://drive.google.com/open?id=1_o65rIlYLfJ5jBwGZ3OPtSaMzthV21oj" width="50%" align="right">
 
-
+이처럼 유명한 관광지부터 소소한 장소까지 있어서 취향에 따라 골라 저-장하고
 오픈-클로즈 시간 및 입장 가격 등 디테일한 정보까지 제공해 주더라고요.
 
 > 개인적으로 여행계획 짜면서 시간이 정말 오래 걸렸는데 이 부분을 단번에 해결해줘서 감사할따름...
@@ -48,15 +46,14 @@ Always-hi Everyone!!
 ## 여행자의 솔직한 리뷰
 
 슬슬 여행갈 장소를 정하다 보면.. 
-
 정말 이 장소가 괜찮나? 가격대비 맛있나? 저녁에 갈까 낮에 갈까?
 
 이런저런 생각을 하다 리뷰를 찾게 되는데, 찾다가 지쳐서 그냥 가자...
-
 할 뻔한걸 트리플이 도와줬습니다..!
 
 >실제 여행자들이 솔직하게 리뷰를 해서 믿음직했고,
 경험에서 우러나온 팁들이 유용했어요
+
 
 **100 퍼센트 완벽한 스팟은 없으니, 장/단점을 보고 우리의 입맛에 맞게 고르면 될 것 같아요!!**
 
@@ -69,13 +66,17 @@ Always-hi Everyone!!
 
 > 트리플은 사용자가 저장한 장소들을 구글맵과 함께 보여줘요
 
+<img src="https://drive.google.com/open?id=1Iu3Do1uT7AGRmG_kcn7Pi5fbvm-chtml" width="50%" align="left">
+<img src="https://drive.google.com/open?id=1o4wduJ7U29Gud09AxZ12UWKcnTeW9VYS" width="50%" align="right">
+
 사용자가 장소를 일정에 추가하면 바로 위치를  확인할 수 있어서 **동선 짤 때 너무 편했어요.**
+일정을 숫자로 표시해서 다음 코스가 어딘지 구별도 쉬웠어요.
 
-1. 일정을 숫자로 표시해서 구별하기도 쉽고
+<img src="https://drive.google.com/open?id=1W6Fbj963nEdxQv2RdKbfTqn-G8GJoSGj" width="50%" align="center">
 
-2. 위치를 누르면 구글맵이 켜지면서 이동거리/시간도 바로바로 체크
+하단의 화살표 버튼을 누르면 구글맵이 켜지면서 이동거리/시간도 바로바로 체크
    
-    `행 전에 동선 짤 때, 여행 다니면서 가는 방법 찾을 때 항상 사용했어요.`
+    `여행 전에 동선 짤 때, 여행 다니면서 가는 방법 찾을 때 항상 사용했어요.`
 
 
 ## 동행자와 공유
@@ -88,14 +89,19 @@ Always-hi Everyone!!
 
 > 트리플에서 친구 초대하기로 일정을 공유하는 기능이 있었어요.
 
-'친구를 초대하기'를 누르고 친구를 선택하면 끝-
+<img src="https://drive.google.com/open?id=1uKHZLgxh18Er0BypSZltup13lkwQHQHU" width="50%">
+
+
+일정 - 별표친부분에서 추가- 친구 초대 - 친구를 선택하면 끝
 
 그렇다보니 한 명만 계획을 짜게 되는 불상사는 막을 수 있어서 좋았어요ㅎㅎㅎ
 
 
 
 
-***`트리플은 모든 사항을 즉각적으로, 쉽게 변경하고 추가할 수 있다는 점이 가장 좋았어요`***
+**'트리플은 쉽고 빠르게 변경하고 추가할 수 있다는 점이 변경사항이 많은 여행의 특징을 잘 잡아준 것 같아요'**
+
+
 
 HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
 
