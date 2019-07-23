@@ -31,8 +31,8 @@ Always-hi Everyone!!
 
 앱 상단에서 맛집, 관광 카테고리는 *추천순/리뷰순/저장순* 으로 소개하고 있어요.
 
-<img src="https://drive.google.com/uc?id=1CQhgnE8iPBgHdc2S5d_65rsF06ImWjbU" width="50%" align="left">
-<img src="https://drive.google.com/open?id=1_o65rIlYLfJ5jBwGZ3OPtSaMzthV21oj" width="50%" align="right">
+<img src="https://drive.google.com/uc?id=1CQhgnE8iPBgHdc2S5d_65rsF06ImWjbU" width="40%" align="left">
+<img src="https://drive.google.com/open?id=1_o65rIlYLfJ5jBwGZ3OPtSaMzthV21oj" width="40%" align="right">
 
 이처럼 유명한 관광지부터 소소한 장소까지 있어서 취향에 따라 골라 저-장하고
 오픈-클로즈 시간 및 입장 가격 등 디테일한 정보까지 제공해 주더라고요.
