@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "A wonderful serenity has taken possession of my entire soul"
-date: 2018-07-20 12:26:40
-image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1504023028/braziljs-2017_mazdtw.jpg'
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-category: 'blog'
+title: "패션 쉐어 / 이커머스 앱 <스타일쉐어> 리뷰"
+date: 2019-07-30 14:38:00
+image: 'http://mblogthumb1.phinf.naver.net/20160424_244/ba4ak_1461431053069KDr4N_PNG/global12-01.png?type=w2'
+description: 나만의 스타일을 쉐어하고 맘에 드는 옷을 겟 해보자.
+category: 'E-COMMERCE'
 tags:
-- platform
-- blog
-twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- Fashion
+- app
+twitter_text: 
+introduction: 나만의 스타일을 쉐어하고 맘에 드는 옷을 겟 해보자. 이커머스와 패션잡지가 만난듯한 플랫폼.
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
