@@ -2,7 +2,7 @@
 layout: post
 title: "패션 쉐어 / 이커머스 앱 <스타일쉐어> 리뷰"
 date: 2019-07-30 14:38:00
-image: 'http://filluminate.com/web/product/big/201702/412_shop1_959109.jpg'
+image: 'https://res.cloudinary.com/dkctvgb09/image/upload/c_fill,h_399,w_760/v1564466393/412_shop1_959109_rfuulb.jpg'
 description: 나만의 스타일을 쉐어하고 맘에 드는 옷을 겟 해보자.
 category: 'E-COMMERCE'
 tags:
