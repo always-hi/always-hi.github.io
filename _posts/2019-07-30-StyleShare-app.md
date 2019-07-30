@@ -2,7 +2,7 @@
 layout: post
 title: "패션 쉐어 / 이커머스 앱 <스타일쉐어> 리뷰"
 date: 2019-07-30 14:38:00
-image: 'http://mblogthumb1.phinf.naver.net/20160424_244/ba4ak_1461431053069KDr4N_PNG/global12-01.png?type=w2'
+image: 'https://www.google.com/search?q=%EC%8A%A4%ED%83%80%EC%9D%BC%EC%89%90%EC%96%B4&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiiyI_X9tvjAhXkLqYKHb_oCbYQ_AUIESgB&biw=1536&bih=754#imgrc=zrRiET6Qf4rsvM:'
 description: 나만의 스타일을 쉐어하고 맘에 드는 옷을 겟 해보자.
 category: 'E-COMMERCE'
 tags:
