@@ -1,20 +1,25 @@
 ---
 layout: post
-title: "Far far away behind the word mountains"
-date: 2018-04-21 12:26:40
+title: "중고거래 앱 서비스 뜯어보기"
+date: 2019-08-20
 image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/v1506567296/sniper-americano_wmr1a2.jpg'
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-category: 'framework'
+description: 비슷하면서도 다른 중고거래 앱을 비교해보자. 각자 어떤 색깔을 갖고 운영될까?
+category: 'E-COMMERCE'
 tags:
-- framework
-- tips
-twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- service
+- story
+- app
+twitter_text: 
+introduction: 비슷하면서도 다른 중고거래 앱을 비교해보자. 기획자의 입장에서 뜯어서 사용자 입장에서 생각하기.
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+오늘 비교할 대상은 이커머스 시장에서 점점 존재잠을 키워가는 중고거래 앱 서비스입니다.
+그중 세가지 앱을 선정해서 비교해볼까 합니다. "중고나라" , "당근마켓", "번개장터"
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+## 1. 배너의 유무와 카테고리 위치
+
+> 중고나라 
+
 
 Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
 
