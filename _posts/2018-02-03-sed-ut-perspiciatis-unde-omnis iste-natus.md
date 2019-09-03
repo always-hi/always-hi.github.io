@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "Sed ut perspiciatis unde omnis iste natus"
-date: 2018-02-03 12:26:40
+title: "우리는 왜 새로운 앱을 설치할 때 거부감을 느낄까?"
+date: 2019-09-04 10:00:40
 image: 'https://res.cloudinary.com/dm7h7e8xj/image/upload/v1551836833/mission_impossible_djiusi.jpg'
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-category: 'tutorial'
+description: 왜 다수의 사람들은 앱을 새로 설치하길 꺼려할까? 실제로 그런가?
+category: 'app'
 tags:
-- css
-- tutorial
+- Question
+- app
 twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+introduction: 앱 기획을 공부하다가 지인분한테 "다수의 사람들은 앱을 설치하길 꺼려해"라는 말을 들었다.
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
