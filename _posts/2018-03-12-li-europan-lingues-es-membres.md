@@ -1,15 +1,16 @@
 ---
 layout: post
-title: "Li Europan lingues es membres"
-date: 2018-03-12 12:26:40
+title: "생활 속 편리함을 플러스해주는 앱 소개"
+date: 2019-09-03 12:40
 image: 'https://res.cloudinary.com/dm7h7e8xj/image/upload/v1551651632/serverless-aws-lambda_dsjjwy.png'
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-category: 'tips'
+description: 사소하고 별거 아닌 것 같지만, 어쩌면 우리에게 큰 변화를 줄 수 있는 앱
+category: 'Post'
 tags:
-- languages
-- tips
+- post
+- app
+- lifestyle
 twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+introduction: 사소하고 별거 아닌 것 같지만, 어쩌면 우리에게 큰 변화를 줄 수 있는 앱을 소개합니다.
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
