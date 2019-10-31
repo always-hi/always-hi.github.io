@@ -13,117 +13,24 @@ twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 introduction: 사소하고 별거 아닌 것 같지만, 어쩌면 우리에게 큰 변화를 줄 수 있는 앱을 소개합니다.
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
 
-## Inline HTML elements
+## 지니뉴스
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+방대한 양의 현재 뉴스를 보기 쉽게 정리해서 볼 수 있다. 특히 3분 브리핑은 주요뉴스만을 선발해서 버스나 여유시간에 간단하게 볼 수 있어서 편리하다. 가입할 때 관심있는 카테고리를 설정하기 때문에 내 관심사 맞춤 뉴스를 볼 수 있다. 바쁜 직장인들이 틈틈이 다양한 분야의 현재 이슈를 파악할 수 있는 유용한 앱이다. 
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+## 구글 아트 앤 컬처
 
-Most of these elements are styled by browsers with few modifications on our part.
+전시회, 미술관을 갈 시간과 여유가 없지만 매일 새로운 문화 지식을 습득하고 싶다면 추천하는 앱이다. 세계적인 다양한 작품을 매일 새롭게 추천해주며 콘텐츠와 설명을 같이 제공하고 있어서 가이드와 함께 작품을 즐기는 느낌이다. 관심있는 작품을 선택하며 비슷한 작품을 추천해주기도 한다.
+미술 기법, 역사, 작품의 뜻 등 다양한 정보를 재밌게 얻을 수 있는 앱이다.
 
-# Heading 1
+## 다이어트신
 
-## Heading 2
+다이어트를 하면서 쓰면 유용할 앱이다. 오늘의 식단, 운동량을 간단히 기록하면서 현황을 파악할 수 있고, 통계 기능을 통해 혼자 피트니스하는 사용자도 체계적인 관리가 가능하다. 사용자들의 커뮤니티를 통해 유익한 정보를 공유할 수 있고, 도전/꿀팁/게시판 등 다양한 기능이 구성되어 있어 외롭지 않은 다이어트를 하도록 도와준다. 뿐만 아니라, 칼로리 정보, 저칼로리 식품을 특가로 구매할 수 있어서 다이어트를 독하게 하고 싶은 사람에게 맞춤인 앱이다.
 
-### Heading 3
-
-#### Heading 4
-
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-
-## Code
-
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
-
-```js
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-```
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-## Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+<img src="https://drive.google.com/uc?id=1CQhgnE8iPBgHdc2S5d_65rsF06ImWjbU" width="50%" align="left">
+<img src="https://drive.google.com/uc?id=1_o65rIlYLfJ5jBwGZ3OPtSaMzthV21oj" width="50%" align="right">
 
 -----
 
