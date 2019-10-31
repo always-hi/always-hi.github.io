@@ -12,121 +12,35 @@ twitter_text:
 introduction: 나만의 스타일을 쉐어하고 맘에 드는 옷을 겟 해보자. 이커머스와 패션잡지가 만난듯한 플랫폼.
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+스타일쉐어는 뷰티 이커머스 플랫폼으로, 패션부터 메이크업까지 스타일의 모든 정보를 공유하고 얻을 수 있다.
+예전에는 모델이 있는 패션잡지를 보면서 마음에 드는 옷을 골랐다면, 이제는 전문가가 아니더라도 패션에 관심이 있는 누구나 모델이 되어 자신의 패션을 공유하고 스타일쉐어를 보면서 옷을 고른다. 
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+> 스타일쉐어가 인기를 얻은 이유 중 하나는 이처럼 진입장벽이 낮아서 사용자가 능동적으로 앱을 사용할 수 있다는 점이라고 생각한다.
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+**나만의 스타일을 찾고 싶은 사람** , **나의 스타일을 사람들과 공유하고 싶은 사람** , **요즘 트렌드를 한눈에 보고 싶은 사람** 등
 
-## Inline HTML elements
+스타일에 관심있는 누구나 사용할 수 있는 앱이기 때문에 휴대폰에 하나씩 넣고 다니는 것 같다.
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+## 콘텐츠로 사용자 유입을 높인다.
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+플랫폼의 영향이 이커머스 시장까지 확장되었다. 모든 온라인쇼핑몰을 돌아다니며 상품을 찾는 프로세스는 사용자에게 피곤함을 주었고, 재밌고 유용한 콘텐츠에 몰려들었다. 때문에 요즘 이커머스 시장은 뷰티 콘텐츠를 통해 사용자를 확보하고 있다. 유튜브의 브이로그, 쇼핑 후기와 같은 적절한 콘텐츠와 결합되어 쇼핑을 유도하면 사용자의 피로감을 덜어줄 수 있기 때문이다.
 
-Most of these elements are styled by browsers with few modifications on our part.
+> 스타일쉐어는 소셜미디어방식으로 사용자들이 정보를 교류하며 생기는 콘텐츠를 제공하고 있다. 뿐만 아니라, 관심있는 상품을 앱 안에서 구매할 수 있다
 
-# Heading 1
+이러한 편리한 서비스는 사용자의 니즈를 정확히 파악한 것 같다. 뷰티 콘텐츠를 접한 후, 관심있는 상품을 사기 위한 별도의 검색~구매 과정이 번거롭다는 생각은 한번씩은 해봤기 때문이다.  
 
-## Heading 2
 
-### Heading 3
+## 사진을 올리면 옷을 찾아주는 챗봇
 
-#### Heading 4
+"이 옷은 어디꺼지? 어디서 사지? 어떻게 찾지?" 를 단번에 해결할 수 있는 서비스를 제공하고 있다. 이러한 서비스를 보고 단순히 상품을 판매하는 서비스를 넘어서 사용자의 불편함을 발견하고 해결하기 위해 노력하고 있는 느낌이 들었다. 
+'모냥봇'이라고 하는 챗봇과 대화하며 옷을 찾는 방식은 친구와 같이 옷을 찾는 것 같았다. 선택한 옷과 비슷한 스타일의 옷 리스트를 추려 보내주고, 옷을 선택하니 쇼핑몰로 연결해준다. 일반적인 대화형식으로 '티셔츠'를 검색하면 다양한 종류의 티셔츠를 보여주고, 색상,길이 등 카테고리를 좁혀서 검색할 수도 있다.
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+방대한 상품 데이터베이스로 사용자의 편리함까지 챙겨주니 스타일쉐어를 자주 사용할 수 밖에 없는 것 같다.  
 
-## Code
-
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
-
-```js
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-```
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-## Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
 
 -----
 
-Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a>
+Want to see something else added? <a href="https://www.styleshare.kr/">Open an issue.</a>
 
 
 
